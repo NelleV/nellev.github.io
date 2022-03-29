@@ -1,0 +1,61 @@
+% Publication
+
+.pub-date {
+  color: #FFF;
+  font-size: 13px;
+  font-weight: bold;
+  float: left;
+  width: 45px;
+  height: 45px;
+  background: #404040;
+  border: 1px solid #404040;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  position: relative;
+  padding: 11px 0;
+  text-align: center;
+}
+
+.pub-date::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  height: 20px;
+  width: 1px;
+  top: -20px;
+  border-left: 1px solid #404040;
+  z-index: 0;
+}
+
+.pub-date::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  height: 150px;
+  width: 1px;
+  bottom: -150px;
+  border-left: 1px solid #404040;
+  z-index: 0;
+}
+
+.pub-content {
+  margin-left: 55px;
+  margin-right: 5px;
+  padding-top: 6px;
+  padding-bottom: 20px;
+  font-size: 15px;
+  max-height: 200px;
+  overflow: hidden;
+}
+
+.pub-content::before, .pub-content::after {
+  content: "";
+  display: table;
+}
+
+.pub-content p {
+    margin-top: 0
+}
+
+
