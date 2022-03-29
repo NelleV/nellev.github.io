@@ -6,7 +6,6 @@
     position: relative;
     margin-bottom: 1em;
     padding-top: 1em;
-    font-size: 15px;
     padding-left: 1rem;
     padding-right: 1rem;
 }
@@ -26,6 +25,7 @@
 .publications a:hover {
     color: #52adc8;
     text-decoration: none;
+    margin-left: 10px;
 }
 
 .pub-date {
