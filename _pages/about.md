@@ -51,4 +51,13 @@ I am a contributor in a number of scientific computing libraries in Python inclu
 - [scikit-learn](scikit-learn.org) - Machine learning in Python.
 - [matplotlib](matplotlib.org) - a python 2D plotting library.
 
+## Joining the lab
 
+
+We're always looking for students from a wide range of background (statistics,
+computer science, biology) to join our lab for internships! If the possibility
+of being a part of our community interests you, don't hesitate to look at our
+current [internship, PhD, and postdoc
+opportunities](https://tree-timc.github.io/compbio/joinus/) or simply reaching
+out to me directly (e-mail:  firstname [dot] lastname [at]
+univ-grenoble-alpes [dot] fr).
