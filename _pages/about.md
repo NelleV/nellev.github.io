@@ -60,4 +60,5 @@ of being a part of our community interests you, don't hesitate to look at our
 current [internship, PhD, and postdoc
 opportunities](https://tree-timc.github.io/compbio/joinus/) or simply reaching
 out to me directly (e-mail:  firstname [dot] lastname [at]
-univ-grenoble-alpes [dot] fr).
+univ-grenoble-alpes [dot] fr), detailing your profile and what you are
+interested in.
