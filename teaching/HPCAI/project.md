@@ -56,7 +56,10 @@ The data handed in to you is:
   protein sequence.
 
 
-## Preliminary analysis of the dataset and analysis plan
+## PHASE 1 Preliminary analysis of the dataset and analysis plan
+
+Due date: December 7th, 2022
+Send the report to: nelle.varoquaux@cnrs.fr
 
 The first part of this project is to perform a preliminary analysis of the
 dataset. You will do this by exploring the `labels.csv` and
@@ -78,3 +81,9 @@ dataset. You will do this by exploring the `labels.csv` and
   this cross validation strategy is a good way to check for generalization in
   this setting.
 
+## PHASE 2. Predicting protein function from it's sequence
+
+Due date: January, 18th, 2023
+Send the report to: nelle.varoquaux@cnrs.fr
+
+More information will be uploaded on December 8th.
