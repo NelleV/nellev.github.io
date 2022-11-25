@@ -6,8 +6,6 @@ permalink: /teaching/hpcai
 ---
 
 
-# Predicting protein function from its sequence
-
 Predicting the function of a protein is one core challenge in biology. Protein
 function is typically inferred using sequence comparison with proteins whose
 function is known. This is problematic in many ways. In particular, proteins
