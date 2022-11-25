@@ -1,7 +1,8 @@
 ---
 layout: page
-title: HPCAI - 2022 - project
-subtitle: protein function prediction
+title: "HPCAI - 2022 - project«
+subtitle: "protein function prediction"
+permalink: /teaching/hpcai
 ---
 
 
