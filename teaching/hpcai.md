@@ -17,7 +17,7 @@ similarity when annotating protein functions in new organism.
 This project is about investigating machine learning strategies to infer
 whether a protein is involved in a secretion system. 
 
-![Secretion systems](../../assets/img/projects/secretion_systems.png)
+![Secretion systems](../assets/img/projects/secretion_systems.png)
 
 
 Secretion systems are complexes of proteins enabling a number of essential
