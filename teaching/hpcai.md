@@ -28,6 +28,9 @@ secretion systems yet to discover.
 
 ## The dataset
 
+The dataset can be downloaded
+[here](https://filesender.renater.fr/?s=download&token=9ca0e7df-8929-4aab-97cd-3c1dfff0282c)
+
 We downloaded the whole set of complete prokaryotic genomes in 2021 (30,000
 genomes in total). We then annotated each protein of each genome as being part
 of a protein family known to be involved in secretion systems (complexes of
