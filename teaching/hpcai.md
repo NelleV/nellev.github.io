@@ -5,6 +5,8 @@ subtitle: "protein function prediction"
 permalink: /teaching/hpcai
 ---
 
+# HPC-AI - Introduction to machine learning - Final project
+
 
 Predicting the function of a protein is one core challenge in biology. Protein
 function is typically inferred using sequence comparison with proteins whose
