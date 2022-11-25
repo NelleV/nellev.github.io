@@ -1,3 +1,10 @@
+---
+layout: page
+title: HPCAI - 2022 - project
+subtitle: protein function prediction
+---
+
+
 # Predicting protein function from its sequence
 
 
