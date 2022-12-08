@@ -234,7 +234,7 @@ aspect, don't hesitate to reach out to me via slack to discuss options.
 
 **Converge on a model/pipeline to solve the problem at hand**, and run the
 code on the test data. Save the results as CSV file. The predicted labels
-should be provided with the report.
+of the train, validation, and test should be provided with the report.
 
 ### Report
 
