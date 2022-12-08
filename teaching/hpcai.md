@@ -201,36 +201,36 @@ Here are suggestions based on some of the challenges possibly identified
 during the first phase of the challenges. If you would like to explore another
 aspect, don't hesitate to reach out to me via slack to discuss options.
 
-    1. **Tackling imbalanced data** There are many ways to deal with
-       imbalanced data, that are easily implementable.
-	- Find and implement at least one strategies to tackle the issue of
-	  imbalance data.
-	- Compare the results of your strategie(s) with an identical machine
-	  learning pipeline without tackling the issue of imbalance data.
-    2. **Learning on large datasets** You have at hand a fairly large dataset
-       (1210590 proteins). If you choose to tackle this challenge, there are
-       several strategies are possible to learn on such a large dataset: (1)
-       downsampling randomly the data as done for the first part of this
-       project; (2) downsampling the data in a non random fashion (by
-       selecting samples that are fairly different for example); (3) using
-       incremental algorithms, such as mini-batch or online learning
-       algorithms. Don't hesitate to look for possible solutions online or
-       come up with your on strategies. 
-	- Explore classification accuracy as a function of number of training examples. 
-	- Choose one or several strategies, and compare the results of your
-	  strategie(s) with the results of a randomly subsampling data.
-	  Justify the learning algorithms explored based on the size of the
-	  data.
-    3. **Positive and unlabeled learning** 
-       - Investigate one or several strategies for PU learning. Through your
-	 investigation, try to (1) find publicly available code that
-	 implements one or several strategies to tackle PU-learning (python
-	 options exist; (2) address the question of validating PU-learning
-	 problems
-      -  Implement or use one or several strategie(s) and compare their
-	 performance on the validation data. Contrasts those results with
-	 performance of the pipeline by considering the simple case
-	 "Positive-Negative learning"
+1. **Tackling imbalanced data** There are many ways to deal with
+    imbalanced data, that are easily implementable.
+    - Find and implement at least one strategies to tackle the issue of
+	imbalance data.
+    - Compare the results of your strategie(s) with an identical machine
+	learning pipeline without tackling the issue of imbalance data.
+2. **Learning on large datasets** You have at hand a fairly large dataset
+    (1210590 proteins). If you choose to tackle this challenge, there are
+    several strategies are possible to learn on such a large dataset: (1)
+    downsampling randomly the data as done for the first part of this
+    project; (2) downsampling the data in a non random fashion (by
+    selecting samples that are fairly different for example); (3) using
+    incremental algorithms, such as mini-batch or online learning
+    algorithms. Don't hesitate to look for possible solutions online or
+    come up with your on strategies. 
+    - Explore classification accuracy as a function of number of training examples. 
+    - Choose one or several strategies, and compare the results of your
+	strategie(s) with the results of a randomly subsampling data.
+	Justify the learning algorithms explored based on the size of the
+	data.
+3. **Positive and unlabeled learning** 
+    - Investigate one or several strategies for PU learning. Through your
+	investigation, try to (1) find publicly available code that
+	implements one or several strategies to tackle PU-learning (python
+	options exist; (2) address the question of validating PU-learning
+	problems
+    -  Implement or use one or several strategie(s) and compare their
+	performance on the validation data. Contrasts those results with
+	performance of the pipeline by considering the simple case
+	"Positive-Negative learning"
 
 **Converge on a model/pipeline to solve the problem at hand**, and run the
 code on the test data. Save the results as CSV file. The predicted labels
