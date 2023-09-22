@@ -7,4 +7,5 @@ citation: 'N. Varoquaux, W. S. Noble, J.-P. Vert. <b>Inference of 3D genome arch
 year: '2023'
 oa_paperurl: 'https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btac838/6967433'
 paperurl: 'https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btac838/6967433'
+githuburl: "https://github.com/hiclib/pastis"
 ---
