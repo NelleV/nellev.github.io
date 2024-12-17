@@ -41,10 +41,3 @@ Work experience
 <br>Armines
 <br><i>January 2016 — June 2016</i></p>
 
-
-Publications
-======
-
-{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-{% endfor %} 
