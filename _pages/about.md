@@ -18,10 +18,8 @@ often related to next-generation sequencing technologies.
 
 Some of the projects that are currently keeping me busy are:
 
-- **Inferring the 3D structure of the genome**, both haploid and diploid, at
-  high resolution (in collaboration with the [Noble lab, University of
-  Washington](noble.gs.washington.edu/) and [CBIO, École des Mines de
-  Paris](https://cbio.ensmp.fr/))
+- **Machine learning methods to discover novel secretion system types**, with
+  Sophie Abby.
 
 - **Understanding how proteins evolve**, through the development of
   unsupervised learning techniques to uncover patterns of co-evolution in
@@ -34,11 +32,11 @@ Some of the projects that are currently keeping me busy are:
 ## About me
 
 I am a CNRS research faculty at the Université Grenoble Alpes's TIMC
-laboratory, in the TrEE team. Specifically, I am part of the 
+laboratory, in the TrEE team. Specifically, I am part of the
 [CompBio](https://tree-timc.github.io/compbio) subgroup TrEE, also known as
 CompBio@TrEE. TrEE is a large interdisciplinary team interested in anything
 related to evolution, from the evolution of specific pathways to experimental
-evolution (via the study of the Long Term E. Coli Evolution Experiment). The
+evolution (via the study of the Long Term *E. coli* Evolution Experiment). The
 CompBio@TrEE is composed of three permanent researchers (Sophie Abby, Ivan
 Junier, and myself) as well as many postdocs, PhD students, and interns.
 
